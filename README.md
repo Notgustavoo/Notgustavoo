@@ -28,7 +28,6 @@ Tools & Environments:
 - Linux (Ubuntu & Kali)
 
 
-Stats:
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Notgustavoo&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Notgustavoo&layout=compact&theme=radical)
